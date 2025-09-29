@@ -1,0 +1,4 @@
+name: CraftLightPlugin
+main: ru.craft.classic.CraftLightPlugin
+version: 1.0.0
+api-version: '1.20'
